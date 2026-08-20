@@ -1,6 +1,8 @@
-# Hi there 👋
+Hi there 👋
 
-I'm an aspiring Data Analyst from Jordan.
+I’m Saja Lourans, an Artificial Intelligence graduate from Jordan, interested in Data Analytics, Machine Learning, and Artificial Intelligence.
+
+I enjoy working with data, building practical machine learning projects, and turning data into meaningful insights. I’m continuously developing my skills through hands-on projects and learning.
 
 ## 📚 Currently Learning
 - Excel
