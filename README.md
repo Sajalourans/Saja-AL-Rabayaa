@@ -39,6 +39,20 @@ I enjoy working with data, building practical machine learning projects, and tur
 * WEKA
 * Power BI
 
+## 🚀 Featured Projects
+
+### 📰 Bayyen — AI News Credibility & Bias Detection
+AI-powered system for news credibility verification and bias detection using NLP, RAG, and machine learning.
+
+🔗 [View Project](https://github.com/Sajalourans/Bayyen-News-Credibility-Bias-Detection)
+
+### ❤️ Heart Attack Analysis & Prediction
+Machine learning project comparing Logistic Regression, SVM, Decision Tree, and Random Forest models for heart disease prediction.
+
+🔗 [View Project](https://github.com/Sajalourans/heart-attack-analysis-prediction)
+
+ 
+
 🚀 Featured Projects
 
 📰 Bayyen — AI-Based News Credibility & Bias Detection
